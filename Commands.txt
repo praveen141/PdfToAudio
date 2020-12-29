@@ -1,0 +1,7 @@
+git config --global user.name praveen141
+git config --global user.email praveen.gupta141@gmail.com
+git init
+git status
+git add filename1 filename2
+git add -A
+edit again
