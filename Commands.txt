@@ -5,3 +5,14 @@ git status
 git add filename1 filename2
 git add -A
 edit again
+
+git commit 
+git commit -m "aded file"
+
+git remote rm origin
+git remote add origin https://github.com/praveen141/PdfToAudio
+
+git push origin master  (then authentinate once on browser)
+
+to clone  in a folder 
+git clone https://github.com/praveen141/PdfToAudio
