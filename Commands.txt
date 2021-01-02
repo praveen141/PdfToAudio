@@ -24,4 +24,6 @@ git log -1
 
 git show 3bb4becc027d4b7973e373613b6d2b0e3dd2f1bc (git show commitid)
 
+to change comment use below
+git commit --amend -m 'Changed return
 checking
