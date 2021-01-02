@@ -17,4 +17,4 @@ git push origin master  (then authentinate once on browser)
 to clone  in a folder 
 git clone https://github.com/praveen141/PdfToAudio
 
-checking123
+checking
